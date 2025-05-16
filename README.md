@@ -3,6 +3,20 @@
 ## 📌 Project Overview
 This project performs a comprehensive analysis of IT salary data in Europe using Python with Plotly for interactive visualizations. The dataset used is the "IT Salary Survey EU 2020" from Kaggle and includes various data cleaning, processing, and visualization techniques.
 
+## 📊 Sample Results
+
+### Distribution of IT Positions in Europe
+![IT Positions Distribution](images/fig_pie_chart.png)
+
+### Average Salaries by City
+![Average Salaries by City](images/fig_bar_line_chart.png)
+
+### Average Salaries by Programming Languages
+![Average Salaries by City](images/fig_bar_line_chart2.png)
+
+### Geographical Distribution of Salaries
+![Geographical Distribution](images/map.png)
+
 ## 🚀 Project Objectives
 - Load and clean the dataset, removing irrelevant columns and outliers.
 - Analyze the distribution of IT positions in Europe.
