@@ -62,7 +62,7 @@ This project performs a comprehensive analysis of IT salary data in Europe using
    ```
 2. Install the required Python libraries:
    ```bash
-   pip install pandas plotly
+   pip install -r requirements.txt
    ```
 3. Run the analysis notebook:
    ```bash
